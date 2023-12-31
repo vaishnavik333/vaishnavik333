@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi</h1>
-<h3 align="center">I am a fresher seeking for the opportunity where i can prove my skills.</h3>
+<h3 align="center">I am a fresher seeking for the opportunity where I can prove my skills.</h3>
 
 - 🌱 I’m currently learning **Java, Web Devlopment**
 
